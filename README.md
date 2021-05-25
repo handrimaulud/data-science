@@ -7,3 +7,4 @@ There are several projects and practices.
 1. Click data-science-practice for practice subject, this folder contain jupyter notebook codes
 2. Click project-ds for project subject that i documented in pdf or the code can access in data-science-practice
 3. Click Dataset for dataset subject that i used for practice and project
+4. Click Certificate-training-completion for certificate i have done some courses
