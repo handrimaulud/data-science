@@ -18,6 +18,7 @@ I also learning by doing that i have used some packages for projects or practice
 6. fbprophet (this package is using for forecasting)
 7. requests, urllib, selenium (this package are using for scrapping data from website)
 8. re (this package is using for regex expression)
+9. Datetime (this package using for time-series dataset)
 
 
 # You have to click the 'Project.ipynb' above to watch the main portofolio i created.
