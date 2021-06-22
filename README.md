@@ -1,4 +1,4 @@
-# Data-science.
+# Data-enthusiast.
 This refference, and the code guide me become a data enthusiast that i have learned about what does the data enthusiast do,
 such as data engineering, data analyst, data scientist, or business intelligence.
 
