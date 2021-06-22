@@ -1,5 +1,7 @@
 # Data-science.
-This refference, and the code guide me become a data scientist that i have learned about what does the data scientist do.
+This refference, and the code guide me become a data enthusiast that i have learned about what does the data enthusiast do,
+such as data engineering, data analyst, data scientist, or business intelligence.
+
 I have learned several projects, such as:
 1. Classification
 2. Regression (i love much of this projects because i love calculus)
@@ -21,10 +23,10 @@ I also learning by doing that i have used some packages for projects or practice
 9. Datetime (this package using for time-series dataset)
 
 
-# You have to click the 'Project.ipynb' above to watch the main portofolio i created.
+# You have to click the 'Portofolio_Current_Exchange_IDR_USD.ipynb' above to watch the main portofolio i created.
 There are several projects and practices that you have to see them.
-1. Click data-science-practice for practice subject, this folder contain jupyter notebook codes
-2. Click project-ds for project subject that i documented in pdf or the code can access in data-science-practice
+1. Click data-science-practice for practice and the portfolio subject, this folder contain jupyter notebook and SQL codes
+2. Click project-ds for project subject that i documented in pdfs or the code can access in data-science-practice
 3. Click Dataset for dataset subject that i used for practice and project
 4. Click Certificate-training-completion for certificate i have done some courses
 
