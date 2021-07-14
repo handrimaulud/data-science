@@ -45,3 +45,6 @@ There are several projects and practices that you have to see them.
 4. Click Certificate-training-completion for certificate i have done some courses
 
 
+
+# An DATA ENGINEER SINCE 12 July 2021 in XERATIC
+No longer available to update this git
